@@ -1,0 +1,8 @@
+commands.locate.usage=/locate <structure|biome> <название>
+commands.locate.structure.success=Структура %s найдена в %s (расстояние: %s блоков)
+commands.locate.structure.not_found=Структура «%s» не найдена поблизости
+commands.locate.structure.invalid=Неизвестная структура «%s»
+commands.locate.biome.success=Биом %s найден в %s (расстояние: %s блоков)
+commands.locate.biome.not_found=Биом «%s» не найден в радиусе %s блоков
+commands.locate.biome.invalid=Неизвестный биом «%s»
+chat.coordinates.tooltip=Телепорт

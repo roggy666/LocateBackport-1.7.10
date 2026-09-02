@@ -1,0 +1,16 @@
+[
+{
+  "modid": "locatebackport",
+  "name": "LocateBackport",
+  "description": "Backport of the modern /locate command (structures & biomes) to Minecraft 1.7.10.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Glitch"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

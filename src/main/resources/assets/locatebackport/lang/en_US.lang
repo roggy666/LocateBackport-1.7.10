@@ -1,0 +1,8 @@
+commands.locate.usage=/locate <structure|biome> <name>
+commands.locate.structure.success=Located %s at %s (%s blocks away)
+commands.locate.structure.not_found=Could not find structure '%s' nearby
+commands.locate.structure.invalid=Unknown structure '%s'
+commands.locate.biome.success=Located %s biome at %s (%s blocks away)
+commands.locate.biome.not_found=Could not find biome '%s' within %s blocks
+commands.locate.biome.invalid=Unknown biome '%s'
+chat.coordinates.tooltip=Click to teleport
